@@ -3,3 +3,6 @@
 ####
 #### YOUR CODE HERE 
 ####
+with open("q1.text,"r"") as f:
+    text = f.read()
+    print(text)
